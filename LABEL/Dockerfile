@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="RUSHI"\
+      COURSE="DOCKER"\
+      DURATION="25HRS"
